@@ -1,2 +1,1 @@
-# Email-spam-detection
-Naive bayes  (Machine Learning)
+Email spam or ham classification using multinomial NB 
